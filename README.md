@@ -1,14 +1,13 @@
 # Verificateur de Redirections HTTP 301/302 et Chaines de Sauts
 
 [![Verificateur Redirections](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/fr/verificateur-redirections-301/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit des chaines de redirection, detection des boucles infinies et preservation de l'autorite de domaine.
 
-Developpe et maintenu par la division d'architecture web et d'exploration de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par la division d'architecture web et d'exploration de **TAVARDT France**.
 
----
+***
 
 ## Capacites d'Audit de Redirections HTTP
 
@@ -18,7 +17,7 @@ Developpe et maintenu par la division d'architecture web et d'exploration de **[
 * **Controle de Continuite HTTPS**: Verification de l'absence de transitions intermediaires non chiffrees.
 * **Score d'Efficacite de Redirection**: Note technique de 0 a 100 avec synthese des axes d'optimisation.
 
----
+***
 
 ## Installation et Execution
 
@@ -33,20 +32,20 @@ python redirect_tracker.py https://entreprise.fr
 Pour generer un rapport au format structure JSON:
 
 ```bash
-python redirect_tracker.py https://entreprise.fr --json
+python redirect_tracker.py https://entreprise.fr -json
 ```
 
----
+***
 
 ## Diagnostic Complet sur le Web
 
 Pour les analyses approfondies de redirections et visualisations de chaines:
 
-* **[Verificateur de Redirections 301 Officiel](https://tools.tavardt.com/fr/verificateur-redirections-301/)**
+* **Verificateur de Redirections 301 Officiel**
 * **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil en Migrations Web et SEO Technique
 
-Pour securiser vos refontes de plateformes et respecter les normes Normes W3C et Recommandations IETF RFC 9110, contactez l'equipe de **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour securiser vos refontes de plateformes et respecter les normes Normes W3C et Recommandations IETF RFC 9110, contactez l'equipe de **TAVARDT France**.
