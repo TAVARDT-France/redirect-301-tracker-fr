@@ -6,8 +6,6 @@
 
 Audit des chaines de redirection, detection des boucles infinies et preservation de l'autorite de domaine.
 
-Developpe et maintenu par la division d'architecture web et d'exploration de **TAVARDT**.
-
 ***
 
 ## Capacites d'Audit de Redirections HTTP
@@ -38,15 +36,6 @@ python redirect_tracker.py https://entreprise.fr -json
 
 ***
 
-## Diagnostic Complet sur le Web
-
-Pour les analyses approfondies de redirections et visualisations de chaines:
-
-* **Verificateur de Redirections 301 Officiel**
-* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
-
-***
-
 ## Conseil en Migrations Web et SEO Technique
 
 Pour securiser vos refontes de plateformes et respecter les normes Normes W3C et Recommandations IETF RFC 9110, contactez l'equipe de **TAVARDT**.
@@ -62,7 +51,7 @@ Pour securiser vos refontes de plateformes et respecter les normes Normes W3C et
 ***
 
 ### Licence
-Distribué sous la Licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Distribué sous la Licence MIT.
 
 ***
 
