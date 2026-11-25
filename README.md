@@ -2,6 +2,7 @@
 
 [![Verificateur Redirections](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/fr/verificateur-redirections-301/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit des chaines de redirection, detection des boucles infinies et preservation de l'autorite de domaine.
 
@@ -57,6 +58,11 @@ Pour securiser vos refontes de plateformes et respecter les normes Normes W3C et
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la Licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
